@@ -1,0 +1,26 @@
+{
+  "name": "Profimedia/nette-datagrid",
+  "description": "Datagrid do Nette Framework",
+  "keywords": ["datagrid","nette framework"],
+  "homepage": "https://github.com/romansklenar/nette-datagrid",
+  "type": "library",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Roman Sklenář",
+      "email": "mail@romansklenar.cz",
+      "homepage": "http://romansklenar.cz"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {  
+	"nette/nette" : "2.0.*",
+  },
+  "suggest": {
+  },
+  "autoload": {
+    "psr-0": {"Nette-datagrid": "src/"}
+  }
+}
