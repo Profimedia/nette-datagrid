@@ -19,8 +19,5 @@
 	"nette/nette" : "2.0.*"
   },
   "suggest": {
-  },
-  "autoload": {
-    "psr-0": {"Nette/datagrid": "src/"}
   }
 }
