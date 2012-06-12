@@ -22,5 +22,6 @@
   },
   "autoload": {
     "psr-0": {"Datagrid": "src/"}
-  }
+  },
+    "target-dir": "PM/Nette/Datagrid"
 }
