@@ -21,6 +21,6 @@
   "suggest": {
   },
   "autoload": {
-    "psr-0": {"Datagrid": "src/Nette/Datagrid"}
+    "psr-0": {"Datagrid": "."}
   }
 }
